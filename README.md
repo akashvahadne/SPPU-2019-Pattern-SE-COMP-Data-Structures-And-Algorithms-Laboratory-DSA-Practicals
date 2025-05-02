@@ -67,7 +67,7 @@ total cost. Solve the problem by suggesting
 appropriate data structures. </p><hr>
 
 <b>Practical No. 8 : </b>
-<p>Given sequence k = k1 <k2 <p> < .... <kn </p> of n sorted 
+<p>Given sequence k = k1 less than(<)k2 less than(<)k3 .... less than(<)kn of n sorted 
 keys, with a search probability pi for each key 
 ki . Build the Binary search tree that has the 
 least search cost given the access 
