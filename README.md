@@ -1,5 +1,4 @@
-<h1>SPPU-2019-Pattern-SE-COMP-Data-Structures-And-Algorithms-Laboratory-DSA-Practicals
-</h1>
+<h1>SPPU-2019-Pattern-SE-COMP-Data-Structures-And-Algorithms-Laboratory-DSA-Practicals</h1>
 <hr>
 <b>Practical No. 1 : </b>
 <p>Consider telephone book database of N clients. 
@@ -68,7 +67,7 @@ total cost. Solve the problem by suggesting
 appropriate data structures. </p><hr>
 
 <b>Practical No. 8 : </b>
-<p>Given sequence k = k1 <k2 <…<kn of n sorted 
+<p>Given sequence k = k1 <k2 <p> < .... <kn </p> of n sorted 
 keys, with a search probability pi for each key 
 ki . Build the Binary search tree that has the 
 least search cost given the access 
